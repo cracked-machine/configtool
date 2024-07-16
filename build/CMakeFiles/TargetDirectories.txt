@@ -1,0 +1,3 @@
+/workspaces/configtool/build/CMakeFiles/mapexample.dir
+/workspaces/configtool/build/CMakeFiles/edit_cache.dir
+/workspaces/configtool/build/CMakeFiles/rebuild_cache.dir
