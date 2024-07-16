@@ -21,7 +21,7 @@ build/mapexample -o examples/file.txt
 build/mapexample -o examples/file.txt -k one
 
 # Write the value 'oneone.img' to key 'one'
-build/mapexample -o examples/file.txt -k one -v oneone.img
+build/mapexample -o examples/file.txt -k one -v aa
 
 
 ```
