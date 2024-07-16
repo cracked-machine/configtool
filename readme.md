@@ -19,9 +19,14 @@ build/mapexample -o examples/file.txt
 
 # read the value from key 'one'
 build/mapexample -o examples/file.txt -k one
+> a
 
 # Write the value 'oneone.img' to key 'one'
 build/mapexample -o examples/file.txt -k one -v aa
 
+
+# read the value from key 'one'
+build/mapexample -o examples/file.txt -k one
+> aa
 
 ```
