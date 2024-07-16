@@ -14,5 +14,14 @@ cmake --build build
 4. Run the application
 
 ```
-build/configtool
+# read the file to stdout
+build/mapexample -o examples/file.txt
+
+# read the value from key 'one'
+build/mapexample -o examples/file.txt -k one
+
+# Write the value 'oneone.img' to key 'one'
+build/mapexample -o examples/file.txt -k one -v oneone.img
+
+
 ```
