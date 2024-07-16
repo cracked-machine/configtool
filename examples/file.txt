@@ -1,5 +1,5 @@
-five=five.img
-four=four.img
-one=one.img
-three=three.img
-two=tw.img
+five=e
+four=d
+one=a
+three=c
+two=b
